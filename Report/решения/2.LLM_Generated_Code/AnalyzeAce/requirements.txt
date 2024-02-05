@@ -1,0 +1,7 @@
+openai
+pyyaml
+polars
+numpy
+mathplotlib
+seaborn
+gradio

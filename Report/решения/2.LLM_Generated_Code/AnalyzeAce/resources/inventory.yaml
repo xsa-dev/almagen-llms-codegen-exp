@@ -1,0 +1,9 @@
+inventory:
+  - reader
+  - code generator
+  - test code generator
+  - statistics generation
+  - data extraction
+  - data mining
+  - data visualization
+  - database structure analyzer

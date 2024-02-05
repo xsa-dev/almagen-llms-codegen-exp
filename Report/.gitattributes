@@ -1,0 +1,4 @@
+решения/2.LLM_Generated_Code/autogen_studio/data/X.csv filter=lfs diff=lfs merge=lfs -text
+решения/2.LLM_Generated_Code/autogen_studio/data/merged_data.csv filter=lfs diff=lfs merge=lfs -text
+решения/2.LLM_Generated_Code/autogen_studio/data/interview.X.csv filter=lfs diff=lfs merge=lfs -text
+решения/2.LLM_Generated_Code/Langchain/df1.csv filter=lfs diff=lfs merge=lfs -text
