@@ -1,0 +1,40 @@
+{
+  "id": "round-20240219-191859-7da587c4",
+  "user_query": "reduce length of message",
+  "state": "finished",
+  "post_list": [
+    {
+      "id": "post-20240219-191859-27958c16",
+      "message": "reduce length of message",
+      "send_from": "User",
+      "send_to": "Planner",
+      "attachment_list": []
+    },
+    {
+      "id": "post-20240219-191859-013692c0",
+      "message": "Model still scores 100% after adjustments; further review needed.",
+      "send_from": "Planner",
+      "send_to": "User",
+      "attachment_list": [
+        {
+          "id": "atta-20240219-191903-c299689e",
+          "type": "init_plan",
+          "content": "1. Investigate dataset and remove problematic features\n2. Retrain and cross-validate the model\n3. Summarize and report findings",
+          "extra": null
+        },
+        {
+          "id": "atta-20240219-191906-e7b2cfad",
+          "type": "plan",
+          "content": "1. Investigate dataset and remove problematic features\n2. Retrain and cross-validate the model\n3. Summarize and report findings",
+          "extra": null
+        },
+        {
+          "id": "atta-20240219-191910-7b2492b2",
+          "type": "current_plan_step",
+          "content": "3. Summarize and report findings",
+          "extra": null
+        }
+      ]
+    }
+  ]
+}

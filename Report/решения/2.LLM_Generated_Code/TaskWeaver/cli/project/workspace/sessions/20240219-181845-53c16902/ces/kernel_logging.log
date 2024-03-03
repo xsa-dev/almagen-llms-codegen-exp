@@ -1,0 +1,19 @@
+2024-02-19 18:19:41,696 INFO taskweaver.ces.kernel.logging Starting process...
+2024-02-19 18:19:41,696 INFO taskweaver.ces.kernel.logging sys.path: ['/home/jovyan/workspace/TaskWeaver/project/workspace/sessions/20240219-181845-53c16902/cwd', '/home/jovyan/workspace/TaskWeaver', '/opt/saturncloud/envs/saturn/Lib/site-packages', '/opt/saturncloud/envs/saturn/lib/python310.zip', '/opt/saturncloud/envs/saturn/lib/python3.10', '/opt/saturncloud/envs/saturn/lib/python3.10/lib-dynload', '/opt/saturncloud/envs/saturn/lib/python3.10/site-packages']
+2024-02-19 18:19:41,696 INFO taskweaver.ces.kernel.logging os.getcwd(): /home/jovyan/workspace/TaskWeaver/project/workspace/sessions/20240219-181845-53c16902/cwd
+2024-02-19 18:19:41,764 INFO taskweaver.ces.kernel.logging Initializing app...
+2024-02-19 18:19:41,780 DEBUG asyncio Using selector: EpollSelector
+2024-02-19 18:19:41,781 DEBUG asyncio Using selector: EpollSelector
+2024-02-19 18:19:41,783 DEBUG asyncio Using selector: EpollSelector
+2024-02-19 18:19:41,815 INFO taskweaver.ces.kernel.logging Starting app...
+2024-02-19 18:19:43,414 DEBUG matplotlib matplotlib data path: /opt/saturncloud/envs/saturn/lib/python3.10/site-packages/matplotlib/mpl-data
+2024-02-19 18:19:43,423 DEBUG matplotlib CONFIGDIR=/home/jovyan/.config/matplotlib
+2024-02-19 18:19:43,424 DEBUG matplotlib interactive is False
+2024-02-19 18:19:43,424 DEBUG matplotlib platform is linux
+2024-02-19 18:19:43,659 DEBUG matplotlib CACHEDIR=/home/jovyan/.cache/matplotlib
+2024-02-19 18:19:43,659 DEBUG matplotlib.font_manager font search path [PosixPath('/opt/saturncloud/envs/saturn/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/ttf'), PosixPath('/opt/saturncloud/envs/saturn/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/afm'), PosixPath('/opt/saturncloud/envs/saturn/lib/python3.10/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts')]
+2024-02-19 18:19:44,164 INFO matplotlib.font_manager generated new fontManager
+2024-02-19 18:20:45,034 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): media.githubusercontent.com:443
+2024-02-19 18:20:46,715 DEBUG urllib3.connectionpool https://media.githubusercontent.com:443 "GET /media/xsa-dev/almagen-llms-codegen-exp/main/Report/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0/data/interview.X.csv HTTP/1.1" 200 105255070
+2024-02-19 18:20:47,150 DEBUG urllib3.connectionpool Starting new HTTPS connection (1): media.githubusercontent.com:443
+2024-02-19 18:20:47,463 DEBUG urllib3.connectionpool https://media.githubusercontent.com:443 "GET /media/xsa-dev/almagen-llms-codegen-exp/main/Report/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0/data/interview.y.csv HTTP/1.1" 200 746304

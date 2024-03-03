@@ -1,0 +1,40 @@
+{
+  "id": "round-20240219-193133-f6dead81",
+  "user_query": "reduce length of message",
+  "state": "finished",
+  "post_list": [
+    {
+      "id": "post-20240219-193133-8ff38aa2",
+      "message": "reduce length of message",
+      "send_from": "User",
+      "send_to": "Planner",
+      "attachment_list": []
+    },
+    {
+      "id": "post-20240219-193133-ec4cbaab",
+      "message": "'tag' is the field for binary classification.",
+      "send_from": "Planner",
+      "send_to": "User",
+      "attachment_list": [
+        {
+          "id": "atta-20240219-193135-4cd70ecc",
+          "type": "init_plan",
+          "content": "1. Identify the appropriate field for binary classification prediction\n2. Confirm the field's suitability for the task\n3. Report the suitable field to the user",
+          "extra": null
+        },
+        {
+          "id": "atta-20240219-193138-37ec3a5d",
+          "type": "plan",
+          "content": "1. Identify the appropriate field for binary classification prediction\n2. Confirm the field's suitability for the task\n3. Report the suitable field to the user",
+          "extra": null
+        },
+        {
+          "id": "atta-20240219-193141-c1c4b5ad",
+          "type": "current_plan_step",
+          "content": "3. Report the suitable field to the user",
+          "extra": null
+        }
+      ]
+    }
+  ]
+}

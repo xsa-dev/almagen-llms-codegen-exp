@@ -1,0 +1,14 @@
+2024-02-19 20:11:57,426 INFO taskweaver.ces.kernel.logging Starting process...
+2024-02-19 20:11:57,426 INFO taskweaver.ces.kernel.logging sys.path: ['/home/jovyan/workspace/TaskWeaver/project/workspace/sessions/20240219-201118-fe612d4e/cwd', '/home/jovyan/workspace/TaskWeaver', '/opt/saturncloud/envs/saturn/Lib/site-packages', '/opt/saturncloud/envs/saturn/lib/python310.zip', '/opt/saturncloud/envs/saturn/lib/python3.10', '/opt/saturncloud/envs/saturn/lib/python3.10/lib-dynload', '/opt/saturncloud/envs/saturn/lib/python3.10/site-packages']
+2024-02-19 20:11:57,426 INFO taskweaver.ces.kernel.logging os.getcwd(): /home/jovyan/workspace/TaskWeaver/project/workspace/sessions/20240219-201118-fe612d4e/cwd
+2024-02-19 20:11:57,493 INFO taskweaver.ces.kernel.logging Initializing app...
+2024-02-19 20:11:57,505 DEBUG asyncio Using selector: EpollSelector
+2024-02-19 20:11:57,505 DEBUG asyncio Using selector: EpollSelector
+2024-02-19 20:11:57,508 DEBUG asyncio Using selector: EpollSelector
+2024-02-19 20:11:57,536 INFO taskweaver.ces.kernel.logging Starting app...
+2024-02-19 20:11:58,343 DEBUG matplotlib matplotlib data path: /opt/saturncloud/envs/saturn/lib/python3.10/site-packages/matplotlib/mpl-data
+2024-02-19 20:11:58,347 DEBUG matplotlib CONFIGDIR=/home/jovyan/.config/matplotlib
+2024-02-19 20:11:58,348 DEBUG matplotlib interactive is False
+2024-02-19 20:11:58,348 DEBUG matplotlib platform is linux
+2024-02-19 20:11:58,397 DEBUG matplotlib CACHEDIR=/home/jovyan/.cache/matplotlib
+2024-02-19 20:11:58,398 DEBUG matplotlib.font_manager Using fontManager instance from /home/jovyan/.cache/matplotlib/fontlist-v330.json

@@ -1,0 +1,40 @@
+{
+  "id": "round-20240219-192948-6cf091d7",
+  "user_query": "reduce length of message",
+  "state": "finished",
+  "post_list": [
+    {
+      "id": "post-20240219-192948-7c70f973",
+      "message": "reduce length of message",
+      "send_from": "User",
+      "send_to": "Planner",
+      "attachment_list": []
+    },
+    {
+      "id": "post-20240219-192948-9f813c55",
+      "message": "The 'tag' field is used for binary classification, distinguishing 'fclick' from non-clicks.",
+      "send_from": "Planner",
+      "send_to": "User",
+      "attachment_list": [
+        {
+          "id": "atta-20240219-192953-02374447",
+          "type": "init_plan",
+          "content": "1. Identify the appropriate field for binary classification prediction\n2. Confirm the field's suitability for the task\n3. Report the suitable field to the user",
+          "extra": null
+        },
+        {
+          "id": "atta-20240219-192957-c28274ac",
+          "type": "plan",
+          "content": "1. Identify the appropriate field for binary classification prediction\n2. Confirm the field's suitability for the task\n3. Report the suitable field to the user",
+          "extra": null
+        },
+        {
+          "id": "atta-20240219-193001-17fc1c83",
+          "type": "current_plan_step",
+          "content": "3. Report the suitable field to the user",
+          "extra": null
+        }
+      ]
+    }
+  ]
+}
